@@ -1,11 +1,11 @@
-package Controller;
+package GUI.Controller;
 
-import Database.DbConnection;
-import Model.Job;
-import Model.Task;
-import Model.User;
-import Model.task_screen;
-import Views.LoginScreen;
+import GUI.Database.DbConnection;
+import GUI.Model.Job;
+import GUI.Model.Task;
+import GUI.Model.User;
+import GUI.Model.task_screen;
+import GUI.Views.LoginScreen;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

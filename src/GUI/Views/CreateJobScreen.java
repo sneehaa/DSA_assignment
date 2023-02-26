@@ -1,8 +1,7 @@
-package Views;
+package GUI.Views;
 
-import Controller.UserController;
-import Model.Job;
-import Model.User;
+import GUI.Controller.UserController;
+import GUI.Model.Job;
 
 import javax.swing.*;
 import java.awt.*;

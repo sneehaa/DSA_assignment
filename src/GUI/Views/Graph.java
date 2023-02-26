@@ -1,4 +1,4 @@
-package Views;
+package GUI.Views;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

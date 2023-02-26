@@ -1,4 +1,4 @@
-package Database;
+package GUI.Database;
 
 
 import java.sql.*;
@@ -22,7 +22,7 @@ public class DbConnection {
             if (connection !=null){
                 System.out.println("Connected to database");
             }else {
-                System.out.println("Database Error");
+                System.out.println("GUI.Database Error");
             }
             // creating the statement object
             statement = connection.createStatement();

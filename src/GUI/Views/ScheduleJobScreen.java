@@ -1,6 +1,4 @@
-package Views;
-
-import Controller.UserController;
+package GUI.Views;
 
 import javax.swing.*;
 import java.awt.*;

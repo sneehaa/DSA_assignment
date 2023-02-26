@@ -1,4 +1,4 @@
-package Model;
+package GUI.Model;
 
 public class Job {
     private int jobId;

@@ -1,4 +1,4 @@
-package Model;
+package GUI.Model;
 
 public class task_screen {
         private int jobId;

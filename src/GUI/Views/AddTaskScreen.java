@@ -1,8 +1,8 @@
-package Views;
+package GUI.Views;
 
 
-import Controller.UserController;
-import Model.task_screen;
+import GUI.Controller.UserController;
+import GUI.Model.task_screen;
 
 import javax.swing.*;
 import java.awt.*;
